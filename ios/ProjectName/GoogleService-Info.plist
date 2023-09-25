@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>770061574978-n6r1c94ud689ng64lmft3jumtcgi20uv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.770061574978-n6r1c94ud689ng64lmft3jumtcgi20uv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>770061574978-02e4rl0ulqit3u14cqnt7ugck7gcer11.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1M2n9wvXHQUThXJqryWdfKSGRLwnAFiQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>770061574978</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.randomcoffee</string>
+	<key>PROJECT_ID</key>
+	<string>randomcoffee-3a9d2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>randomcoffee-3a9d2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:770061574978:ios:a3abff0c2b73706e041edb</string>
+	<key>DATABASE_URL</key>
+	<string>https://randomcoffee-3a9d2-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
